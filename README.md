@@ -1,6 +1,10 @@
 # WC3 DotA Data Extractor
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f6197106-5484-435b-9ae6-b7465a9709ba/deploy-status)](https://app.netlify.com/sites/wc3-dota-data-extractor/deploys)
+
 Extracts some data from input DotA map and outputs it in JSON format. Currently only tested on [v7.00e4](https://www.epicwar.com/maps/308663/) and only extracts data of heroes.
+
+Data extractor client demo deployed on Netlify here: https://wc3-dota-data-extractor.netlify.app/
 
 ## Scripts
 
