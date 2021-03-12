@@ -1,4 +1,4 @@
-import War3Map from './w3x-parser.js' 
+import War3Map from 'mdx-m3-viewer/dist/parsers/w3x/map'
 import parseINI from "../utilities/parse-ini.js";
 import parse7xxItemStrings from "../utilities/parse-7.xx-item-strings.js";
 import parseSLK from "../utilities/parse-slk.js";

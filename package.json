@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "file-saver": "^2.0.5",
+    "mdx-m3-viewer": "github:jp06/mdx-m3-viewer",
     "preact": "^10.0.0"
   },
   "devDependencies": {

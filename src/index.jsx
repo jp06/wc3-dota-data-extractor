@@ -5,7 +5,7 @@ import 'preact/devtools';
 import 'preact/debug';
 
 import FileSaver from 'file-saver';
-import handleMap from './lib/map-handler'
+import handleMap from './common/map-handler'
 
 import './index.css';
 

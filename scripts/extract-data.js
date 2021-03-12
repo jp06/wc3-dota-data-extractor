@@ -10,7 +10,7 @@
 import fs from 'fs'
 import path from 'path'
 
-import handleMap from '../src/lib/map-handler.js'
+import handleMap from '../src/common/map-handler.js'
 
 (async () => {
 	try {
